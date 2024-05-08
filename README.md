@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning mongodb and node.js
-- 👯 I’m looking to collaborate on front-end projects <!-- - 🤔 I’m looking for help with ... -->
+- 🌱 I’m currently working with back-end projects
+- 👯 I’m looking to collaborate on back-end projects <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ... Anything <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a B.A. in Physics
